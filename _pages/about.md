@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-# 👨‍🎓about
+# 👨‍🎓About
 
 Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engineering and Telecommunication, [University of New South Wales](https://www.unsw.edu.au/), Sydeney, NSW, Australia. His interest include Energy and AI, Federated Learning, microgrids, fuel cell, prognostics.
 
