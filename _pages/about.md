@@ -41,6 +41,37 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 - 2019-2020: Outstanding graduate student of Northwestern Polytechnical University
 
 # 🗎 Paper Print
-Li Y, Xie R, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
+Li Y, **Xie R**, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
 
 # 🗎 Publications
+
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=PLujFT4AAAAJ&view_op=list_works&sortby=pubdate)
+
+
+- **Xie R**, Li C, Zhou X, et al. [Differentially Private Federated Learning for Multitask Objective Recognition](https://ieeexplore.ieee.org/abstract/document/10429819?casa_token=uZnxuHP7LG4AAAAA:XPi1Pu6ipkgQuDIegBuSqP0qnS7v1FqVG8LDd01xUaB0v8h3ib2iC-okziB0ANTxEKGKV9E)[J]. IEEE Transactions on Industrial Informatics, 2024.
+
+- **Xie R**, Li C, Ma R, et al. [An explainable data-driven framework for fuel cell aging prediction under dynamic condition](https://ieeexplore.ieee.org/abstract/document/9866604?casa_token=PrkMZKWJiVEAAAAA:SP2JlJrnEXTMN87ThQYPao8L92sTH62Q5x_Pq495cWagRLPAs1ZB-LBFRHl0ECkQMb9sY20)[J]. IEEE Transactions on Industrial Electronics, 2022, 70(6): 5960-5970.
+
+- **Xie R**, Ma R, Pu S, et al. [Prognostic for fuel cell based on particle filter and recurrent neural network fusion structure](https://www.sciencedirect.com/science/article/pii/S2666546820300173)[J]. Energy and AI, 2020, 2: 100017.
+
+- **Xie R**, Li C, Zhou X, et al. [Asynchronous federated learning for real-time multiple licence plate recognition through semantic communication](https://ieeexplore.ieee.org/abstract/document/10097251?casa_token=9v1873aEjyIAAAAA:busMfKGXx9E6BJKAIk-Bo3sdnZRyzvlKGWFiw4JgYOoHYjaEo8BEYwnsRGcVQFeHgHRuI6A)[C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5. (**oral**)
+
+- Ma R, **Xie R**, Xu L, et al. [A hybrid prognostic method for PEMFC with aging parameter prediction](https://ieeexplore.ieee.org/abstract/document/9417096?casa_token=jx0QGASOcIEAAAAA:52OYu5KPCsqhvEZ33x2Jg-vtXC6Ry2xB8gtofkHX7lkB-QpEO1EYtFzY9O1N1eXK7LA1y8w)[J]. IEEE Transactions on Transportation Electrification, 2021, 7(4): 2318-2331.
+
+- Zhang H, **Xie R**, Li Y, et al. [Finite-Time Model Predictive Stabilization of DC Electrical Power Systems Feeding CPLs in More Electric Aircraft](https://ieeexplore.ieee.org/abstract/document/10429820?casa_token=P7Mg18E0xi4AAAAA:qYNApnK9tJuBrUV0uv_U7_S7f4aQ8hNRX3btDbnryqoin7N9HP2DRoRa-AbMRSN_S4oi7Tc)[J]. IEEE Transactions on Industrial Electronics, 2024.
+
+- Zhang H, **Xie R**, Li Y, et al. [Fast Terminal Sliding Mode Control of DC-DC Boost Converters with Enhanced Disturbance Rejection](https://ieeexplore.ieee.org/abstract/document/10328744?casa_token=SpJ5fqkv-nYAAAAA:JZwqt8QOidMJfUJujeXb6gWibk1UkFl34QP1ldXemez_PuUpetjvuqSF3Ue0IRQFqlmQ72E)[J]. IEEE Journal of Emerging and Selected Topics in Power Electronics, 2023.
+
+# Services
+- Conference reviewer
+  * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+
+  * IEEE IECON
+  
+- Journal reviewer
+  * IEEE Transactions on Information Forensics and Security
+  * IEEE Transactions on Cybernetics
+  * IEEE Transactions on Transportation Electrification
+  * Energy Conversion and Management
+  * IEEE Transactions on Industry Applications
+  
