@@ -73,5 +73,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Transportation Electrification
   * Energy Conversion and Management
+  * IEEE Network Magazine
   * IEEE Transactions on Industry Applications
   
