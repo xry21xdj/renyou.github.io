@@ -14,17 +14,17 @@ redirect_from:
 Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engineering and Telecommunication, [University of New South Wales](https://www.unsw.edu.au/), Sydeney, NSW, Australia. His interest include Energy and AI, Federated Learning, microgrids, fuel cell, prognostics.
 
 # 📚︎ Education
-- 09/2023~Present: [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications),[University of New South Wales](https://www.unsw.edu.au/)
+- 09/2023~Present: [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
 
   * Ph.D. student in *Electrical Engineering*
   * supervisors: Chaojie Li, Guo Chen. 
 
-- 09/2018-04/2021：[Schoold of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
+- 09/2018-04/2021：[School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
 
   * MPhil in *Electrical Engineering*
   * Supervisor: Yuren Li
 
-- 09/2014-06/2018：[Schoold of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
+- 09/2014-06/2018：[School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
 
   * B.E. in *Electrical Engineering*
 
