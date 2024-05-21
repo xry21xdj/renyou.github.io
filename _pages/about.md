@@ -41,7 +41,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 - 2019-2020: Outstanding graduate student of Northwestern Polytechnical University
 
 # 🗎 Paper Print
-**Xie R**, Yin X, Li C, et al. Large Language Model-aided Edge Learning in Distribution System State Estimation[J]. arXiv preprint arXiv:2405.06999, 2024.
+- **Xie R**, Yin X, Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://arxiv.org/abs/2405.06999)[J]. arXiv preprint arXiv:2405.06999, 2024.
 Li Y, **Xie R**, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
 
 # 🗎 Publications
@@ -82,5 +82,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   * Energy Conversion and Management
   * IEEE Network Magazine
   * IEEE Transactions on Industry Applications
+<<<<<<< HEAD
 
 
+=======
+  
+>>>>>>> 480fe38556620707ddb3a2f385ef84ca2c129a1f
