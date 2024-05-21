@@ -62,6 +62,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - Zhang H, **Xie R**, Li Y, et al. [Fast Terminal Sliding Mode Control of DC-DC Boost Converters with Enhanced Disturbance Rejection](https://ieeexplore.ieee.org/abstract/document/10328744?casa_token=SpJ5fqkv-nYAAAAA:JZwqt8QOidMJfUJujeXb6gWibk1UkFl34QP1ldXemez_PuUpetjvuqSF3Ue0IRQFqlmQ72E)[J]. IEEE Journal of Emerging and Selected Topics in Power Electronics, 2023.
 
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+本站总访问量<span id="busuanzi_value_site_pv"></span>次
+本站访客数<span id="busuanzi_value_site_uv"></span>人次
+
 # Services
 - Conference reviewer
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
@@ -75,4 +81,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   * Energy Conversion and Management
   * IEEE Network Magazine
   * IEEE Transactions on Industry Applications
-  
+
+
