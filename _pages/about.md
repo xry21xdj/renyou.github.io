@@ -42,7 +42,8 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 
 # 🗎 Paper Print
 - **Xie R**, Yin X, Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://arxiv.org/abs/2405.06999)[J]. arXiv preprint arXiv:2405.06999, 2024.
-Li Y, **Xie R**, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
+
+-Li Y, **Xie R**, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
 
 # 🗎 Publications
 
@@ -57,7 +58,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - **Xie R**, Li C, Zhou X, et al. [Asynchronous federated learning for real-time multiple licence plate recognition through semantic communication](https://ieeexplore.ieee.org/abstract/document/10097251?casa_token=9v1873aEjyIAAAAA:busMfKGXx9E6BJKAIk-Bo3sdnZRyzvlKGWFiw4JgYOoHYjaEo8BEYwnsRGcVQFeHgHRuI6A)[C]//ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2023: 1-5. (**oral**)
 
-- Ma R, **Xie R**, Xu L, et al. [A hybrid prognostic method for PEMFC with aging parameter prediction](https://ieeexplore.ieee.org/abstract/document/9417096?casa_token=jx0QGASOcIEAAAAA:52OYu5KPCsqhvEZ33x2Jg-vtXC6Ry2xB8gtofkHX7lkB-QpEO1EYtFzY9O1N1eXK7LA1y8w)[J]. IEEE Transactions on Transportation Electrification, 2021, 7(4): 2318-2331.
+- Ma R, **Xie R***, Xu L, et al. [A hybrid prognostic method for PEMFC with aging parameter prediction](https://ieeexplore.ieee.org/abstract/document/9417096?casa_token=jx0QGASOcIEAAAAA:52OYu5KPCsqhvEZ33x2Jg-vtXC6Ry2xB8gtofkHX7lkB-QpEO1EYtFzY9O1N1eXK7LA1y8w)[J]. IEEE Transactions on Transportation Electrification, 2021, 7(4): 2318-2331.
 
 - Zhang H, **Xie R**, Li Y, et al. [Finite-Time Model Predictive Stabilization of DC Electrical Power Systems Feeding CPLs in More Electric Aircraft](https://ieeexplore.ieee.org/abstract/document/10429820?casa_token=P7Mg18E0xi4AAAAA:qYNApnK9tJuBrUV0uv_U7_S7f4aQ8hNRX3btDbnryqoin7N9HP2DRoRa-AbMRSN_S4oi7Tc)[J]. IEEE Transactions on Industrial Electronics, 2024.
 
