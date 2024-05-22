@@ -43,7 +43,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 # 🗎 Paper Print
 - **Xie R**, Yin X, Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://arxiv.org/abs/2405.06999)[J]. arXiv preprint arXiv:2405.06999, 2024.
 
--Li Y, **Xie R**, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
+- Li Y, **Xie R**, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
 
 # 🗎 Publications
 
