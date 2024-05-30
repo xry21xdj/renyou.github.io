@@ -40,7 +40,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 - 2019-2020: National Scholarship
 - 2019-2020: Outstanding graduate student of Northwestern Polytechnical University
 
-# 🔥 hot news
+# 🔥 News
 - Our paper titled "Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness" is accepted by IEEE Transactions on Parallel and Distributed Systems (CCF-A) in 30/05/2024.
 
 # 🗎 Paper Print
