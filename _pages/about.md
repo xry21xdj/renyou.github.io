@@ -52,7 +52,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=PLujFT4AAAAJ&view_op=list_works&sortby=pubdate)
 
-- **Xie R**, Li C, Zhou X, and Dong Z, "Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness," in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2024.3411815
+- **Xie R**, Li C, Zhou X, and Dong Z, "[Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/document/10552428)," in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2024.3411815
 
 - **Xie R**, Li C, Zhou X, et al. [Differentially Private Federated Learning for Multitask Objective Recognition](https://ieeexplore.ieee.org/abstract/document/10429819?casa_token=uZnxuHP7LG4AAAAA:XPi1Pu6ipkgQuDIegBuSqP0qnS7v1FqVG8LDd01xUaB0v8h3ib2iC-okziB0ANTxEKGKV9E)[J]. IEEE Transactions on Industrial Informatics, 2024.
 
