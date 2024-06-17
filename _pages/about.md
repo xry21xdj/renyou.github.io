@@ -85,7 +85,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   * IEEE Network Magazine
   * IEEE Transactions on Industry Applications
 
-# Statistcs
 
 
 
