@@ -87,10 +87,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 # Statistcs
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-Total visits: <span id="busuanzi_value_site_pv"></span>，
-Number of visitors: <span id="busuanzi_value_site_uv"></span>
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zdLhBfmq8qfdxyScDh1ebEOsJ2Yupb7fwvOuCrPerw8&cl=ffffff&w=a"></script>
+
