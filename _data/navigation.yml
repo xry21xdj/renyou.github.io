@@ -2,6 +2,9 @@
 main:
   - title: "Statistics"
     url: /statistics/
-
+  - title: "Event"
+    url:/Events/
+  - title: "Teaching"
+    url:/_teaching/
     
 
