@@ -2,7 +2,7 @@
 main:
   - title: "Statistics"
     url: /statistics/
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Event"
+    url: /events/
     
 
