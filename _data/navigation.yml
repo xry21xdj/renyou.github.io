@@ -3,8 +3,8 @@ main:
   - title: "Statistics"
     url: /statistics/
   - title: "Event"
-    url:/Events/
+    url:/events/
   - title: "Teaching"
-    url:/_teaching/
+    url:/teaching/
     
 
