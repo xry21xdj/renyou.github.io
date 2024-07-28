@@ -29,6 +29,10 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
   * B.E. in *Electrical Engineering*
 
 # 🏫 Work Experience
+
+- 07/2024 - present [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
+    * Tutor of graduate course (ELEC9781)
+
 - 09/2021-07/2023: [School of Automation](https://soa.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/)
 
   * Research Asistant
