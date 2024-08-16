@@ -46,7 +46,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 
 
 # 🔥 News
-; - Our paper titled "Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness" is accepted by IEEE Transactions on Parallel and Distributed Systems (CCF-A) in 30/05/2024.
+ - Our paper titled "Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness" is accepted by IEEE Transactions on Parallel and Distributed Systems (CCF-A) in 30/05/2024.
 
 # 🗎 Paper Print
 - **Xie R**, Yin X, Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://arxiv.org/abs/2405.06999)[J]. arXiv preprint arXiv:2405.06999, 2024.
