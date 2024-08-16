@@ -44,6 +44,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 - 2019-2020: National Scholarship
 - 2019-2020: Outstanding graduate student of Northwestern Polytechnical University
 
+<div style="display:none">
 # 🔥 News
 - Our paper titled "Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness" is accepted by IEEE Transactions on Parallel and Distributed Systems (CCF-A) in 30/05/2024.
 
@@ -51,14 +52,18 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 - **Xie R**, Yin X, Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://arxiv.org/abs/2405.06999)[J]. arXiv preprint arXiv:2405.06999, 2024.
 
 - Li Y, **Xie R**, Li C, et al. [Federated Graph Learning for EV Charging Demand Forecasting with Personalization Against Cyberattacks](https://arxiv.org/abs/2405.00742)[J]. arXiv preprint arXiv:2405.00742, 2024.
+</div>
 
 # 🗎 Publications
 
+<div style="display:none">
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=PLujFT4AAAAJ&view_op=list_works&sortby=pubdate)
 
-- **Xie R**, Li C, Zhou X, and Dong Z, "[Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/document/10552428)," in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2024.3411815
+
 
 - **Xie R**, Li C, Zhou X, et al. [Differentially Private Federated Learning for Multitask Objective Recognition](https://ieeexplore.ieee.org/abstract/document/10429819?casa_token=uZnxuHP7LG4AAAAA:XPi1Pu6ipkgQuDIegBuSqP0qnS7v1FqVG8LDd01xUaB0v8h3ib2iC-okziB0ANTxEKGKV9E)[J]. IEEE Transactions on Industrial Informatics, 2024.
+
+</div>
 
 - **Xie R**, Li C, Ma R, et al. [An explainable data-driven framework for fuel cell aging prediction under dynamic condition](https://ieeexplore.ieee.org/abstract/document/9866604?casa_token=PrkMZKWJiVEAAAAA:SP2JlJrnEXTMN87ThQYPao8L92sTH62Q5x_Pq495cWagRLPAs1ZB-LBFRHl0ECkQMb9sY20)[J]. IEEE Transactions on Industrial Electronics, 2022, 70(6): 5960-5970.
 
