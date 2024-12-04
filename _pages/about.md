@@ -29,9 +29,10 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
   * B.E. in *Electrical Engineering*
 
 # 🏫 Work Experience
-
-- 07/2024 - present [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
-    * Tutor of graduate course (ELEC9781)
+- 09/2024 - 12/2024 [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
+    * Tutor & lab demonstrator of UNSW ELEC3111，  Distributed energy generation
+- 07/2024 - 09/2024 [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
+    * Tutor of graduate course (ELEC9781)，  Special Topics in Energy storage
 
 - 09/2021-07/2023: [School of Automation](https://soa.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/)
 
@@ -41,7 +42,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 # 🏆︎Hornors and Awards
 
 - 2021: Outstanding Master's Thesis of Northwestern Polytechnical University
-- 2019-2020: National Scholarship
+- 2019-2020: National Scholarship   ￥20，000
 - 2019-2020: Outstanding graduate student of Northwestern Polytechnical University
 
 
@@ -49,7 +50,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 
 # 🗎 Publications
 
-
+-  **Xie R**, Yin X,  Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation[J]](https://ieeexplore.ieee.org/abstract/document/10552428).  in \textit{IEEE Internet of Things Journal} doi: 10.1109/JIOT.2024. 3483441.
 
 - **Xie R**, Li C, Ma R, et al. [An explainable data-driven framework for fuel cell aging prediction under dynamic condition](https://ieeexplore.ieee.org/abstract/document/9866604?casa_token=PrkMZKWJiVEAAAAA:SP2JlJrnEXTMN87ThQYPao8L92sTH62Q5x_Pq495cWagRLPAs1ZB-LBFRHl0ECkQMb9sY20)[J]. IEEE Transactions on Industrial Electronics, 2022, 70(6): 5960-5970.
 
