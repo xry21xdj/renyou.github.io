@@ -54,6 +54,8 @@ Renyou Xie is a 2<sup>nd </sup> year Ph.D. student at School of Electrical Engin
 
 - **Xie R**, Li C,  Zhou X and Dong Z, [Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/abstract/document/10552428) IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2024.3411815
 
+- **Xie R**, Li C, Zhou X, Chen H and Dong Z, [Differentially Private Federated Learning for Multitask Objective Recognition](https://ieeexplore.ieee.org/abstract/document/10429819) IEEE Transactions on Industrial Informatics, vol. 20, no. 5, pp. 7269-7281, May 2024, doi: 10.1109/TII.2023.3342897.
+
 - **Xie R**, Li C, Ma R, et al. [An explainable data-driven framework for fuel cell aging prediction under dynamic condition](https://ieeexplore.ieee.org/abstract/document/9866604?casa_token=PrkMZKWJiVEAAAAA:SP2JlJrnEXTMN87ThQYPao8L92sTH62Q5x_Pq495cWagRLPAs1ZB-LBFRHl0ECkQMb9sY20)[J]. IEEE Transactions on Industrial Electronics, 2022, 70(6): 5960-5970.
 
 - **Xie R**, Ma R, Pu S, et al. [Prognostic for fuel cell based on particle filter and recurrent neural network fusion structure](https://www.sciencedirect.com/science/article/pii/S2666546820300173)[J]. Energy and AI, 2020, 2: 100017.
