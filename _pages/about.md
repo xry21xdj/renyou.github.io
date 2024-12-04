@@ -40,7 +40,7 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
   * Supervisor: Xiaojun Zhou
 
 # 🏆︎Hornors and Awards
-
+- 2024: Gold Medal of China International College Students' Innovation Competition 2024 (CICSIC)
 - 2021: Outstanding Master's Thesis of Northwestern Polytechnical University
 - 2019-2020: National Scholarship   ￥20，000
 - 2019-2020: Outstanding graduate student of Northwestern Polytechnical University
@@ -50,7 +50,9 @@ Renyou Xie is a 1<sup>st </sup> year Ph.D. student at School of Electrical Engin
 
 # 🗎 Publications
 
--  **Xie R**, Yin X,  Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation[J]](https://ieeexplore.ieee.org/abstract/document/10552428).  in \textit{IEEE Internet of Things Journal} doi: 10.1109/JIOT.2024. 3483441.
+-  **Xie R**, Yin X,  Li C, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://ieeexplore.ieee.org/abstract/document/10722848).  IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024. 3483441.
+
+- **Xie R**, Li C,  Zhou X and Dong Z, [Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/abstract/document/10552428) IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2024.3411815
 
 - **Xie R**, Li C, Ma R, et al. [An explainable data-driven framework for fuel cell aging prediction under dynamic condition](https://ieeexplore.ieee.org/abstract/document/9866604?casa_token=PrkMZKWJiVEAAAAA:SP2JlJrnEXTMN87ThQYPao8L92sTH62Q5x_Pq495cWagRLPAs1ZB-LBFRHl0ECkQMb9sY20)[J]. IEEE Transactions on Industrial Electronics, 2022, 70(6): 5960-5970.
 
