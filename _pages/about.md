@@ -17,12 +17,12 @@ Renyou Xie is a 2<sup>nd </sup> year Ph.D. student at School of Electrical Engin
 - 09/2023~Present: [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
 
   * Ph.D. student in *Electrical Engineering*
-  * Supervisors: Chaojie Li, Guo Chen. 
+  * Supervisors: Dr.Chaojie Li, A/Prof.Guo Chen. 
 
 - 09/2018-04/2021：[School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
 
   * MPhil in *Electrical Engineering*
-  * Supervisor: Yuren Li
+  * Supervisor: Prof.Yuren Li
 
 - 09/2014-06/2018：[School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)
 
@@ -37,7 +37,7 @@ Renyou Xie is a 2<sup>nd </sup> year Ph.D. student at School of Electrical Engin
 - 09/2021-07/2023: [School of Automation](https://soa.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/)
 
   * Research Asistant
-  * Supervisor: Xiaojun Zhou
+  * Supervisor: Prof.Xiaojun Zhou
 
 # 🏆︎Hornors and Awards
 - 2024: Gold Medal of China International College Students' Innovation Competition 2024 (CICSIC)
