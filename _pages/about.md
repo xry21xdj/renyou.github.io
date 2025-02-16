@@ -81,6 +81,7 @@ Renyou Xie is a 2<sup>nd </sup> year Ph.D. student at School of Electrical Engin
   * Automatica
   * IEEE Transactions on Information Forensics and Security
   * IEEE Transactions on Cybernetics
+  * IEEE Transactions on Industrial Electronics
   * IEEE Transactions on Transportation Electrification
   * IEEE Transactions on Energy Conversion
   * Energy Conversion and Management
