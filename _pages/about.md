@@ -83,7 +83,7 @@ Renyou Xie is a 2<sup>nd </sup> year Ph.D. student at School of Electrical Engin
   * IEEE Transactions on Cybernetics
   * IEEE Transactions on Power Systems
   * IEEE Transactions on Industrial Electronics
-  * IEEE Transactions on SUstainable Eenrgy
+  * IEEE Transactions on Sustainable Eenrgy
   * IEEE Transactions on Transportation Electrification
   * IEEE Transactions on Energy Conversion
   * Applied Energy
