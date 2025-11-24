@@ -48,8 +48,10 @@ Renyou Xie is a 3<sup>nd </sup> year Ph.D. student at School of Electrical Engin
   * Supervisor: Prof.Xiaojun Zhou
 
 # 🏆︎Hornors and Awards
+- 2025 Development and Research Training Grant of University of New South Wales
 - 2024: Gold Medal of China International College Students' Innovation Competition 2024 (CICSIC)
 - 2021: Outstanding Master's Thesis of Northwestern Polytechnical University
+- 2023 Tuition Fee Scholarship & Stipend of University of New South Wales
 - 2019-2020: National Scholarship 
 - 2019-2020: Outstanding graduate student of Northwestern Polytechnical University
 
