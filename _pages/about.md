@@ -83,8 +83,8 @@ Renyou Xie is a 3<sup>rd </sup> year Ph.D. student at School of Electrical Engin
 
 # Services
 - Conference reviewer
+  * AAAI
   * IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-
   * IEEE IECON
   
 - Journal reviewer
