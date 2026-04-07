@@ -39,17 +39,25 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
    <img src="/renyou.github.io/images/pub_ACOPF.png" alt="ACOPF Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
+   We propose a differentiable warm-start framework that integrates neural networks with nonlinear programming solvers for AC optimal power flow. The neural network provides high-quality initial points, and gradients from the NLP solver flow back to update the network, enabling end-to-end training without labelled data.
+
 2. **R. Xie**, C. Li, Z. Yang et al. [Differential privacy enabled robust asynchronous federated multitask learning: a multigradient descent approach](). *IEEE Transactions on Cybernetics*, 2025. (**Q1**, JCR ranked 16/204 in Computer Science, Artificial Intelligence, **IF 10.5**)
 
    <img src="/renyou.github.io/images/pub_FedMGDA.png" alt="FedMGDA Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+
+   We develop an asynchronous federated multitask learning framework with differential privacy guarantees. Each edge device performs local MGDA-based training on its own task, and uploads model updates with calibrated Laplace noise to a central server for aggregation, achieving both privacy protection and multi-task fairness.
 
 3. **R. Xie**, X. Yin, C. Li, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://ieeexplore.ieee.org/abstract/document/10722848). *IEEE Internet of Things Journal*, 2024. (**Q1**, JCR Ranked 23/368 in Engineering, Electrical & Electronic, **IF 8.9**)
 
    <img src="/renyou.github.io/images/pub_LLM_DSSE.png" alt="LLM-aided DSSE Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
+   We introduce a pretrained LLM into distribution system state estimation to handle missing measurement data. The LLM is fine-tuned to forecast missing values from domain-specific prompts and historical sequences, which are then fed into a multi-task learning model for accurate state estimation.
+
 4. **R. Xie**, C. Li, X. Zhou and Z. Dong. [Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/abstract/document/10552428). *IEEE Transactions on Parallel and Distributed Systems*, 2024. (**CCF-A, Q1**, JCR ranked 16/147 in Computer Science, Theory & Methods, **IF 6.0**)
 
    <img src="/renyou.github.io/images/pub_FL_platform.png" alt="Federated Learning Platform" style="max-width:600px; width:100%; margin: 10px 0;">
+
+   We design a communication-efficient federated multi-task learning algorithm that balances personalization and fairness across heterogeneous clients. A physical Raspberry Pi-based federated learning platform is built to validate the proposed method in real-world distributed settings.
 
 5. **R. Xie**, C. Li, X. Zhou, H. Chen and Z. Dong. [Differentially Private Federated Learning for Multitask Objective Recognition](https://ieeexplore.ieee.org/abstract/document/10429819). *IEEE Transactions on Industrial Informatics*, vol. 20, no. 5, pp. 7269-7281, May 2024. (**Q1**, JCR Ranked 9/177 in Computer Science, Interdisciplinary Applications, **IF 9.9**)
 
