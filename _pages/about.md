@@ -37,19 +37,19 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 1. **R. Xie**, L. Xu, C. Li, et al. [Neural-optimization integration for AC optimal power flow: A differentiable warm-start approach](). *Cyber-Physical Energy Systems*, 2025.
 
-   <img src="/images/pub_ACOPF.png" alt="ACOPF Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/renyou.github.io/images/pub_ACOPF.png" alt="ACOPF Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
 2. **R. Xie**, C. Li, Z. Yang et al. [Differential privacy enabled robust asynchronous federated multitask learning: a multigradient descent approach](). *IEEE Transactions on Cybernetics*, 2025. (**Q1**, JCR ranked 16/204 in Computer Science, Artificial Intelligence, **IF 10.5**)
 
-   <img src="/images/pub_FedMGDA.png" alt="FedMGDA Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/renyou.github.io/images/pub_FedMGDA.png" alt="FedMGDA Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
 3. **R. Xie**, X. Yin, C. Li, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://ieeexplore.ieee.org/abstract/document/10722848). *IEEE Internet of Things Journal*, 2024. (**Q1**, JCR Ranked 23/368 in Engineering, Electrical & Electronic, **IF 8.9**)
 
-   <img src="/images/pub_LLM_DSSE.png" alt="LLM-aided DSSE Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/renyou.github.io/images/pub_LLM_DSSE.png" alt="LLM-aided DSSE Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
 4. **R. Xie**, C. Li, X. Zhou and Z. Dong. [Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/abstract/document/10552428). *IEEE Transactions on Parallel and Distributed Systems*, 2024. (**CCF-A, Q1**, JCR ranked 16/147 in Computer Science, Theory & Methods, **IF 6.0**)
 
-   <img src="/images/pub_FL_platform.png" alt="Federated Learning Platform" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/renyou.github.io/images/pub_FL_platform.png" alt="Federated Learning Platform" style="max-width:600px; width:100%; margin: 10px 0;">
 
 5. **R. Xie**, C. Li, X. Zhou, H. Chen and Z. Dong. [Differentially Private Federated Learning for Multitask Objective Recognition](https://ieeexplore.ieee.org/abstract/document/10429819). *IEEE Transactions on Industrial Informatics*, vol. 20, no. 5, pp. 7269-7281, May 2024. (**Q1**, JCR Ranked 9/177 in Computer Science, Interdisciplinary Applications, **IF 9.9**)
 
