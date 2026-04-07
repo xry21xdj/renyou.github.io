@@ -1,7 +1,20 @@
-# main links links
+# main links
 main:
+  - title: "About"
+    url: /#about
+  - title: "News"
+    url: /#news
+  - title: "Publications"
+    url: /#publications
+  - title: "Honours & Awards"
+    url: /#honours-and-awards
+  - title: "Education"
+    url: /#education
+  - title: "Experience"
+    url: /#professional-experience
+  - title: "Teaching"
+    url: /#teaching-experience
+  - title: "Services"
+    url: /#professional-service
   - title: "Statistics"
     url: /statistics/
-
-    
-
