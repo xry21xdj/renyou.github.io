@@ -13,7 +13,7 @@ I am a Ph.D. candidate at the [School of Electrical Engineering and Telecommunic
 
 My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanning federated learning, large language models, privacy-preserving machine learning, and their applications in power systems, microgrids, and fuel cells.
 
-**Research Interests:** \| Federated Learning | Privacy-Preserving AI | LLM for Energy Systems | Fuel Cell Prognostics | Power System State Estimation
+**Research Interests:** \| Federated Learning \| Privacy-Preserving AI \| LLM for Energy Systems \| Fuel Cell Prognostics \| Power System State Estimation
 
 ---
 
