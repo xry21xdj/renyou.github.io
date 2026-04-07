@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# <a name="about"></a>About
+# <a name="about"></a>👨‍🎓 About
 
 I am a Ph.D. candidate at the [School of Electrical Engineering and Telecommunications](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/), Sydney, Australia (Expected Submission: August 2026). My supervisors are [A/Prof Guo Chen](https://research.unsw.edu.au/people/dr-guo-chen) and [Dr. Chaojie Li](https://chaojieli.github.io/).
 
@@ -17,7 +17,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="news"></a>News
+# <a name="news"></a>🔥 News
 
 - **2026.01** Received **UNSW Digital Grid Futures Institute (DGFI) Seed Funding** (17,000 AUD).
 - **2025** Invited as **Session Chair** at IECON 2026 (SS22: System-Level Planning and Economic Optimization of V2G/V2H-Enabled Smart Buildings and Power Systems).
@@ -29,7 +29,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="publications"></a>Publications
+# <a name="publications"></a>📝 Publications
 
 [[Google Scholar](https://scholar.google.com.hk/citations?user=PLujFT4AAAAJ&hl=zh-CN)]
 
@@ -37,11 +37,19 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 1. **R. Xie**, L. Xu, C. Li, et al. [Neural-optimization integration for AC optimal power flow: A differentiable warm-start approach](). *Cyber-Physical Energy Systems*, 2025.
 
+   <img src="/images/pub_ACOPF.png" alt="ACOPF Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+
 2. **R. Xie**, C. Li, Z. Yang et al. [Differential privacy enabled robust asynchronous federated multitask learning: a multigradient descent approach](). *IEEE Transactions on Cybernetics*, 2025. (**Q1**, JCR ranked 16/204 in Computer Science, Artificial Intelligence, **IF 10.5**)
+
+   <img src="/images/pub_FedMGDA.png" alt="FedMGDA Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
 3. **R. Xie**, X. Yin, C. Li, et al. [Large Language Model-aided Edge Learning in Distribution System State Estimation](https://ieeexplore.ieee.org/abstract/document/10722848). *IEEE Internet of Things Journal*, 2024. (**Q1**, JCR Ranked 23/368 in Engineering, Electrical & Electronic, **IF 8.9**)
 
+   <img src="/images/pub_LLM_DSSE.png" alt="LLM-aided DSSE Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+
 4. **R. Xie**, C. Li, X. Zhou and Z. Dong. [Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/abstract/document/10552428). *IEEE Transactions on Parallel and Distributed Systems*, 2024. (**CCF-A, Q1**, JCR ranked 16/147 in Computer Science, Theory & Methods, **IF 6.0**)
+
+   <img src="/images/pub_FL_platform.png" alt="Federated Learning Platform" style="max-width:600px; width:100%; margin: 10px 0;">
 
 5. **R. Xie**, C. Li, X. Zhou, H. Chen and Z. Dong. [Differentially Private Federated Learning for Multitask Objective Recognition](https://ieeexplore.ieee.org/abstract/document/10429819). *IEEE Transactions on Industrial Informatics*, vol. 20, no. 5, pp. 7269-7281, May 2024. (**Q1**, JCR Ranked 9/177 in Computer Science, Interdisciplinary Applications, **IF 9.9**)
 
@@ -67,7 +75,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="honours-and-awards"></a>Honours and Awards
+# <a name="honours-and-awards"></a>🏆 Honours and Awards
 
 - **2026**: UNSW Digital Grid Futures Institute (DGFI) Seed Funding, 17,000 AUD
 - **2025**: Development and Research Training Grant, University of New South Wales
@@ -79,7 +87,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="education"></a>Education
+# <a name="education"></a>📖 Education
 
 - **09/2023 ~ Present**: [University of New South Wales](https://www.unsw.edu.au/), Sydney, Australia
   - Ph.D. Candidate in *Electrical Engineering* (Expected Submission: August 2026)
@@ -95,7 +103,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="professional-experience"></a>Professional Experience
+# <a name="professional-experience"></a>💼 Professional Experience
 
 - **03/2025 ~ 12/2025**: Research Assistant, [University of New South Wales](https://www.unsw.edu.au/), Sydney, Australia
   - Supervisor: Dr. Rachel Zhang
@@ -109,7 +117,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="teaching-experience"></a>Teaching Experience
+# <a name="teaching-experience"></a>🏫 Teaching Experience
 
 - **ELEC9781: Special Topics in Energy Systems** (Postgraduate), University of New South Wales
   - Tutor, Term 2 2024 & Term 2 2025
@@ -121,7 +129,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="conference-presentations"></a>Conference Presentations
+# <a name="conference-presentations"></a>💬 Conference Presentations
 
 1. **Oral presentation** at 20th IEEE ICIT, Melbourne, Australia, February 2019. **R. Xie\***, B. Liang, H. Zhang, and Y. Li, "A novel constant frequency sliding mode control for bidirectional quadratic boost-buck converter."
 
@@ -131,7 +139,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="professional-service"></a>Professional Service
+# <a name="professional-service"></a>🔧 Professional Service
 
 **Session Chair:**
 - The 3rd International Conference on Machine Learning and Intelligent System (MLIS 2021), Session on Neural Networks, IoT and Digitalization
