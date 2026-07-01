@@ -31,8 +31,6 @@ Renyou Xie is a 3<sup>rd </sup> year Ph.D. student at School of Electrical Engin
 # 🏫 Work Experience
 - 03/2025 - 12/2025 [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
     * Research Asistant
-    * Supervisor: Dr.Rachel Zhang
-
 - 09/2025 - 12/2025 [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
     * Tutor of UNSW ELEC3111，  Distributed energy generation
 - 07/2025 - 09/2025 [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
@@ -45,7 +43,6 @@ Renyou Xie is a 3<sup>rd </sup> year Ph.D. student at School of Electrical Engin
 - 09/2021-07/2023: [School of Automation](https://soa.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/)
 
   * Research Asistant
-  * Supervisor: Prof.Xiaojun Zhou
 
 # 🏆︎Hornors and Awards
 - 2025 Development and Research Training Grant of University of New South Wales
