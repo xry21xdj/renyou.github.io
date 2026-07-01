@@ -83,7 +83,6 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 # <a name="honours-and-awards"></a>🏆 Honours and Awards
 
-- **2026**: UNSW Digital Grid Futures Institute (DGFI) Seed Funding, 17,000 AUD
 - **2025**: Development and Research Training Grant, University of New South Wales
 - **2024**: Gold Medal of China International College Students' Innovation Competition (CICSIC, Team Leader), Ministry of Education of the People's Republic of China
 - **2023**: Tuition Fee Scholarship & Stipend, University of New South Wales
