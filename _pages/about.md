@@ -115,7 +115,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-# <a name="professional-experience"></a>💼 Professional Experience
+<!-- # <a name="professional-experience"></a>💼 Professional Experience
 
 - **03/2025 ~ 12/2025**: Research Assistant, [University of New South Wales](https://www.unsw.edu.au/), Sydney, Australia
   - Supervisor: Dr. Rachel Zhang
@@ -127,7 +127,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
   - Conducted research on federated learning for distributed energy systems
   - Published 2 papers in high-impact IEEE Transactions including TPDS (CCF-A, Q1), TII (Q1)
 
----
+--- -->
 
 # <a name="teaching-experience"></a>🏫 Teaching Experience
 
