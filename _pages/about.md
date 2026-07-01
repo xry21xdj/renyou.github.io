@@ -41,7 +41,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
    We propose a differentiable warm-start framework that integrates neural networks with nonlinear programming solvers for AC optimal power flow. The neural network provides high-quality initial points, and gradients from the NLP solver flow back to update the network, enabling end-to-end training without labelled data.
 
-# 🏫 Work Experience
+<!-- # 🏫 Work Experience -->
 <!-- - 03/2025 - 12/2025 [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
     * Research Asistant
     * Supervisor: Dr.Rachel Zhang -->
