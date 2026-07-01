@@ -41,17 +41,11 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
    We propose a differentiable warm-start framework that integrates neural networks with nonlinear programming solvers for AC optimal power flow. The neural network provides high-quality initial points, and gradients from the NLP solver flow back to update the network, enabling end-to-end training without labelled data.
 
-<!-- # 🏫 Work Experience -->
-<!-- - 03/2025 - 12/2025 [School of Electrical Engineering and Telecommunication](https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications), [University of New South Wales](https://www.unsw.edu.au/)
-    * Research Asistant
-    * Supervisor: Dr.Rachel Zhang -->
+
 
    <img src="/renyou.github.io/images/pub_FedMGDA.png" alt="FedMGDA Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
-<!-- - 09/2021-07/2023: [School of Automation](https://soa.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/)
 
-  * Research Asistant
-  * Supervisor: Prof.Xiaojun Zhou -->
 
    <img src="/renyou.github.io/images/pub_LLM_DSSE.png" alt="LLM-aided DSSE Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
@@ -115,19 +109,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 ---
 
-<!-- # <a name="professional-experience"></a>💼 Professional Experience
 
-- **03/2025 ~ 12/2025**: Research Assistant, [University of New South Wales](https://www.unsw.edu.au/), Sydney, Australia
-  - Supervisor: Dr. Rachel Zhang
-  - Supervised 10+ master's students on thesis projects focusing on data-driven power system stability assessment
-  - Conducted research on AI-driven methods for power system stability and security assessment
-
-- **09/2021 ~ 07/2023**: Research Assistant, [Central South University](https://www.csu.edu.cn/), Changsha, China
-  - Supervisor: Prof. Xiaojun Zhou
-  - Conducted research on federated learning for distributed energy systems
-  - Published 2 papers in high-impact IEEE Transactions including TPDS (CCF-A, Q1), TII (Q1)
-
---- -->
 
 # <a name="teaching-experience"></a>🏫 Teaching Experience
 
