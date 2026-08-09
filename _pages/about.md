@@ -37,7 +37,7 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
 
 1. **R. Xie**, L. Xu, C. Li, et al. [Neural-optimization integration for AC optimal power flow: A differentiable warm-start approach](). *Cyber-Physical Energy Systems*, 2025.
 
-   <img src="/renyou.github.io/images/pub_ACOPF.png" alt="ACOPF Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/images/pub_ACOPF.png" alt="ACOPF Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
    We propose a differentiable warm-start framework that integrates neural networks with nonlinear programming solvers for AC optimal power flow. The neural network provides high-quality initial points, and gradients from the NLP solver flow back to update the network, enabling end-to-end training without labelled data.
 
@@ -46,20 +46,20 @@ My research focuses on **Trustworthy AI for Sustainable Energy Systems**, spanni
     * Research Asistant
     * Supervisor: Dr.Rachel Zhang -->
 
-   <img src="/renyou.github.io/images/pub_FedMGDA.png" alt="FedMGDA Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/images/pub_FedMGDA.png" alt="FedMGDA Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
 <!-- - 09/2021-07/2023: [School of Automation](https://soa.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/)
 
   * Research Asistant
   * Supervisor: Prof.Xiaojun Zhou -->
 
-   <img src="/renyou.github.io/images/pub_LLM_DSSE.png" alt="LLM-aided DSSE Framework" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/images/pub_LLM_DSSE.png" alt="LLM-aided DSSE Framework" style="max-width:600px; width:100%; margin: 10px 0;">
 
    We introduce a pretrained LLM into distribution system state estimation to handle missing measurement data. The LLM is fine-tuned to forecast missing values from domain-specific prompts and historical sequences, which are then fed into a multi-task learning model for accurate state estimation.
 
 4. **R. Xie**, C. Li, X. Zhou and Z. Dong. [Accelerating Communication-efficient Federated Multi-Task Learning With Personalization and Fairness](https://ieeexplore.ieee.org/abstract/document/10552428). *IEEE Transactions on Parallel and Distributed Systems*, 2024. (**CCF-A, Q1**, JCR ranked 16/147 in Computer Science, Theory & Methods, **IF 6.0**)
 
-   <img src="/renyou.github.io/images/pub_FL_platform.png" alt="Federated Learning Platform" style="max-width:600px; width:100%; margin: 10px 0;">
+   <img src="/images/pub_FL_platform.png" alt="Federated Learning Platform" style="max-width:600px; width:100%; margin: 10px 0;">
 
    We design a communication-efficient federated multi-task learning algorithm that balances personalization and fairness across heterogeneous clients. A physical Raspberry Pi-based federated learning platform is built to validate the proposed method in real-world distributed settings.
 
